@@ -5,7 +5,7 @@ I self-host, automate, and break things on purpose so they don't break in produc
 ---
 
 ### 🔭 What I built
-- **Self-hosted lab on Azure** — Docker, NGINX, `cloudflared` + Tailscale, & Datadog for observability
+- **Self-hosted VPS** — Docker, `cloudflared` + Tailscale, & Datadog for observability
 - **No-code automations** — Slack → LLM → Jira/Sheets bug pipeline, Tally → LLM classifier → Telegram alerts, an Apify-powered LinkedIn job-scraping + AI resume tailoring pipeline
 
 ### 🛠️ Stack
@@ -21,7 +21,7 @@ I self-host, automate, and break things on purpose so they don't break in produc
 ### 📫 Connect with me:
 
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeloaugustine.capili@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/angelo-augustine-capili)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelo-augustine-capili)
 
 <!--
 **miraifcx/miraifcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
