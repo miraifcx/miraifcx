@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=900&color=B75BF7&center=true&vCenter=true&width=435&lines=Greetings%2C+I'm+Angelo;Technical+Support+Specialist;Aspiring+Cloud+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=900&color=BB0000&width=435&lines=Greetings.+I'm+Angelo;Technical+Support+Specialist;Aspiring+Cloud+Engineer" alt="Typing SVG" />
 
   <p>
     <a href="mailto:angeloaugustine.capili@gmail.com">
