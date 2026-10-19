@@ -1,27 +1,35 @@
 ## Hi, I'm Angelo.
 
-I self-host, automate, and break things on purpose so they don't break in production.
+# Hi, I’m Angelo.
+
+Exploring cloud infrastructure, automation, and the tools that make systems reliable, reproducible, and easier to manage.
 
 ---
 
-### 🔭 What I built
-- **Self-hosted VPS** — Docker, `cloudflared` + Tailscale, & Datadog for observability
-- **No-code automations** — Slack → LLM → Jira/Sheets bug pipeline, Tally → LLM classifier → Telegram alerts, an Apify-powered LinkedIn job-scraping + AI resume tailoring pipeline
+### 🛠️ Tech Stack
 
-### 🛠️ Stack
+<p align="center"><strong>Cloud · IaC · CI/CD · Containers · Observability · Automation & Scripting</strong></p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=Blue)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,terraform,docker,linux,ansible,githubactions,python&theme=dark" alt="Cloud and infrastructure tools" />
+</p>
 
+<p align="center">
+  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" alt="DigitalOcean" width="44" height="44" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linode/00A95C" alt="Akamai Linode" width="44" height="44" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="Argo CD" width="44" height="44" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pulumi/8A3391" alt="Pulumi" width="44" height="44" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/datadog/632CA6" alt="Datadog" width="44" height="44" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="44" height="44" />
+</p>
 
-### 📫 Connect with me:
+---
 
-[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angeloaugustine.capili@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelo-augustine-capili)
+### 📫 Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:angeloaugustine.capili@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelo-augustine-capili)
+
 
 <!--
 **miraifcx/miraifcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
