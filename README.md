@@ -1,7 +1,5 @@
 ## Hi, I'm Angelo.
 
-# Hi, I’m Angelo.
-
 Exploring cloud infrastructure, automation, and the tools that make systems reliable, reproducible, and easier to manage.
 
 ---
@@ -16,7 +14,6 @@ Exploring cloud infrastructure, automation, and the tools that make systems reli
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/digitalocean/0080FF" alt="DigitalOcean" width="44" height="44" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linode/00A95C" alt="Akamai Linode" width="44" height="44" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/argo/EF7B4D" alt="Argo CD" width="44" height="44" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pulumi/8A3391" alt="Pulumi" width="44" height="44" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/datadog/632CA6" alt="Datadog" width="44" height="44" />&nbsp;&nbsp;
@@ -25,7 +22,7 @@ Exploring cloud infrastructure, automation, and the tools that make systems reli
 
 ---
 
-### 📫 Connect
+### 📫 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:angeloaugustine.capili@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelo-augustine-capili)
